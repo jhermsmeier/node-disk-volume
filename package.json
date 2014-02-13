@@ -1,0 +1,30 @@
+{
+  
+  "name": "disk-volume",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "",
+  "keywords": [ "disk-volume" ],
+  
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://github.com/jhermsmeier"
+  },
+  
+  "main": "lib/volume",
+  
+  "dependencies": {},
+  
+  "devDependencies": {},
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhermsmeier/node-disk-volume.git"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-disk-volume/issues"
+  }
+  
+}
